@@ -1,0 +1,65 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CGVStudio.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  VertexBuffer.cpp
+  vector.cpp
+  TrianglePlaneModel.cpp
+  TriangleBoxModel.cpp
+  Texture.cpp
+  Tetromino.cpp
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(117): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(142): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\tetromino.cpp(144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  rgbimage.cpp
+c:\users\larissa\documents\github\tetris\src\rgbimage.cpp(100): warning C4244: 'return': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\larissa\documents\github\tetris\src\rgbimage.cpp(137): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\larissa\documents\github\tetris\src\rgbimage.cpp(137): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PhongShader.cpp
+  Model.cpp
+c:\users\larissa\documents\github\tetris\src\model.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\larissa\documents\github\tetris\src\model.cpp(100): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\model.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\larissa\documents\github\tetris\src\model.cpp(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\larissa\documents\github\tetris\src\model.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\larissa\documents\github\tetris\src\model.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\larissa\documents\github\tetris\src\model.cpp(210): warning C4018: '<': signed/unsigned mismatch
+  Matrix.cpp
+  main.cpp
+  LinePlaneModel.cpp
+  Lights.cpp
+  ShaderLightMapper.cpp
+  PlayingField.cpp
+c:\users\larissa\documents\github\tetris\src\playingfield.cpp(5): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\larissa\documents\github\tetris\src\playingfield.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\larissa\documents\github\tetris\src\playingfield.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\larissa\documents\github\tetris\src\playingfield.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\larissa\documents\github\tetris\src\playingfield.cpp(46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  LineModel.cpp
+  IndexBuffer.cpp
+  Framebuffer.cpp
+  ConstantShader.cpp
+  color.cpp
+  Generating Code...
+c:\users\larissa\documents\github\tetris\src\rgbimage.cpp(26): warning C4172: returning address of local variable or temporary
+c:\users\larissa\documents\github\tetris\src\vector.cpp(79): warning C4172: returning address of local variable or temporary: n
+  Compiling...
+  Camera.cpp
+  BaseShader.cpp
+  BaseModel.cpp
+  Application.cpp
+  Aabb.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CGVStudio.vcxproj -> C:\Users\Larissa\Documents\GitHub\tetris\CGVStudio\Debug\Tetris.exe
+  CGVStudio.vcxproj -> C:\Users\Larissa\Documents\GitHub\tetris\CGVStudio\Debug\Tetris.pdb (Full PDB)
